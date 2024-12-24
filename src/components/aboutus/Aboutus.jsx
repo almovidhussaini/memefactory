@@ -18,7 +18,7 @@ const Aboutus = () => {
     <div className="relative grid grid-cols-1 px-6 md:px-10 overflow-hidden">
       {/* Background Section */}
       <div
-        className="h-[150vh] md:h-[80vh] bg-cover bg-center relative mt-16 md:mt-28 overflow-hidden xl:overflow-visible"
+        className="h-[150vh] md:h-[80vh] bg-cover bg-center relative  overflow-hidden xl:overflow-visible"
         style={{
           backgroundImage: `url(${aboutus})`,
         }}

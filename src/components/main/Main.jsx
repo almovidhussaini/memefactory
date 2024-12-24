@@ -89,7 +89,7 @@ const Main = () => {
         {/* Token Count */}
         <div className="flex justify-center mt-10 overflow-hidden">
           <div className="w-[90%] md:w-[30%] bg-[#FFFFFF] px-4 md:px-8 py-4 text-center rounded-xl border-4 border-gray-400 shadow-lg">
-            <p className="text-sm md:text-lg font-medium font-['Winter_Minie']">TOTAL TOKEN = 400</p>
+            <p className="text-4xl  font-['Winter_Minie']">TOTAL TOKEN = 400</p>
           </div>
         </div>
       </div>
