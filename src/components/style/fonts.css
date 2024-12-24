@@ -1,0 +1,7 @@
+@font-face {
+    font-family: 'Winter Minie';
+    src: url('/fonts/WinterMinie.otf') format('opentype'),
+         url('/fonts/WinterMinie.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
